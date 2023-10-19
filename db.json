@@ -1,0 +1,36 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "David",
+            "age": 21,
+            "course": "EEE"
+        },
+        {
+            "id": 2,
+            "name": "Daniel",
+            "age": 23,
+            "course": "MCE"
+        },
+        {
+            "id": 3,
+            "name": "Tari",
+            "age": 17,
+            "course": "MASS"
+        }
+    ],
+    "staff": [
+        {
+            "id": 4,
+            "name": "Dr. Oshin",
+            "age":  38,
+            "course": "ICE"
+        },
+        {
+            "id": 5,
+            "name": "Engr. Michael",
+            "age":  46,
+            "course": "EEE"
+        }
+    ]
+}
